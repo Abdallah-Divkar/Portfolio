@@ -18,7 +18,9 @@ const Footer = () => {
         {/*Logo & Description */}
         <div className="footer-top-left">
             <img src={footer_logo} alt="" />
-            <p>I'm studying 'Artificial Intelligence - Software Development' at Centennial College in Toronto, ON</p>
+            <p>Abdallah Fardin Divkar</p>
+            <p>301302441</p>
+            <p>adivkar@my.centennialcollege.ca</p>
         </div>
         <div className="footer-top-right">
           {/*Email & Subscribe buttons */}
