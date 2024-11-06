@@ -18,8 +18,13 @@ const Hero = () => {
       <AnchorLink className="anchor-link" href="#about"><img onClick={() => setMenu("about")} src={profile_img} alt=""/></AnchorLink>
       <h1>Abdallah Divkar</h1>
       <h2>Aspiring Software Developer based in Canada</h2>
-      <p>I'm studying 'Artificial Intelligence - Software Development' at Centennial College in Toronto, ON</p>
-
+      <p>
+      Welcome to my portfolio! I’m Abdallah Divker, a software engineering student with experience
+       in software development, robotics, and data analysis. Here, you’ll find
+        projects that reflect my dedication to building innovative
+         solutions with technologies like Python, Java, and full-stack
+          web tools. Feel free to explore, and reach out if you’d like
+           to connect!</p>
       <div className="hero-action">
         <div className="hero-connect"><AnchorLink className="anchor-link" offset={50} href="#contact">Connect with Me</AnchorLink></div>
         <div className="hero-resume">
