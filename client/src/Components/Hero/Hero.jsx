@@ -9,7 +9,7 @@ import "./Hero.css";
 import profile_img from "../../assets/profile_img.jpg"
 import underline from "../../assets/nav_underline.svg"
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import resume from "../../assets/resume.pdf"
+import resume from "../../assets/AbdallahDivkar-Resume_.pdf"
 
 
 const Hero = () => {
@@ -19,7 +19,7 @@ const Hero = () => {
       <h1>Abdallah Divkar</h1>
       <h2>Aspiring Software Developer based in Canada</h2>
       <p>
-      Welcome to my portfolio! I’m Abdallah Divker, a software engineering student with experience
+      Welcome to my portfolio! I’m Abdallah Divkar, a software engineering student with experience
        in software development, robotics, and data analysis. Here, you’ll find
         projects that reflect my dedication to building innovative
          solutions with technologies like Python, Java, and full-stack
