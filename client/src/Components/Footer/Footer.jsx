@@ -13,31 +13,30 @@ import user_icon from "../../assets/user_icon.svg"
 const Footer = () => {
   return (
     <div className='footer'>
+      <hr></hr>
       <div className="footer-top">
 
         {/*Logo & Description */}
         <div className="footer-top-left">
             <img src={footer_logo} alt="" />
-            <p>Abdallah Fardin Divkar</p>
-            <p>301302441</p>
-            <p>adivkar@my.centennialcollege.ca</p>
         </div>
-        <div className="footer-top-right">
-          {/*Email & Subscribe buttons */}
+       <div className="footer-top-right">
+            <p>Abdallah Fardin Divkar</p>
+            <p>+1(437)-955-5106</p>
+            <p>divkerabdallah@gmail.com</p>
+        </div>
+          {/*Email & Subscribe buttons 
             <div className="footer-email-input">
                 <img src={user_icon} alt="" />
                 <input type="email" placeholder='Enter your email' />
             </div>
             <button type='submit' className="contact-submit">Subscribe</button>
 
-        </div>
+        </div>*/}
       </div>
-      <hr></hr>
+      
       <div className="footer-bottom">
-        <p className="footer-bottom-left">&copy;&nbsp;&nbsp;Copyright: Abdallah Divkar -- 301302441 -- Centennial College -- adivkar@my.centennialcollege.ca</p>
-        <div className="footer-bottom-right">
-            <p>Connect With Me</p>
-        </div>
+        <p className="footer-bottom-left">&copy;&nbsp;&nbsp;Copyright: Abdallah Divkar -- divkerabdallah@gmail.com</p>
       </div>
     </div>
   )
