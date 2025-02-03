@@ -14,8 +14,9 @@ import project6_img from '../assets/project_6.png'
 const mywork_data = [
     {
         w_no:1,
-        w_name:"Web design",
-        w_img:project1_img
+        w_name:"Web design - Weather App",
+        w_img:project1_img,
+        url: "https://weather-app-adivkar.netlify.app/"
     },
     {
         w_no:2,
@@ -24,8 +25,9 @@ const mywork_data = [
     },
     {
         w_no:3,
-        w_name:"Web design",
-        w_img:project3_img
+        w_name:"Web design - Tic Tac Toe",
+        w_img:project3_img,
+        url: "https://tic-tac-toe-adivkar.netlify.app/"
     },
     {
         w_no:4,
